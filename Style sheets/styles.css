@@ -1,0 +1,21 @@
+.custom-bg-orange{
+    background-color: orange;
+}
+
+/* Why doesn't the above work? */
+
+section div{
+    padding: 20px 0px;
+}
+
+.custom-box{
+    border: 2px solid #6488EA;
+    background-color:#AEBFEE;
+}
+
+.door{
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    z-index: 2;
+}
